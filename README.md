@@ -21,11 +21,11 @@ Here's a brief overview of the projects included:
 
 1. Java
 
-   1. **Project 1**: Description of the project.
+   1. **Project 1**: ATM System.
 
       - Files: `file1.py`, `file2.java`, `data.csv`
       - Notes: Any additional notes or instructions.
-   2. **Project 2**: Description of the project.
+   2. **Project 2**: TextAnalzyer.
 
       - Files: `main.cpp`, `output.txt`
       - Notes: Any specific requirements or outcomes.
