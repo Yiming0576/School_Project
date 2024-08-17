@@ -23,12 +23,12 @@ Here's a brief overview of the projects included:
 
    1. **Project 1**: ATM System.
 
-      - Files: `file1.py`, `file2.java`, `data.csv`
-      - Notes: Any additional notes or instructions.
+      - Files: `Account.java`, `ATMSystem.java`, `ATMUser.java`
+      - Notes: ATMSystem is the entry file
    2. **Project 2**: TextAnalzyer.
 
-      - Files: `main.cpp`, `output.txt`
-      - Notes: Any specific requirements or outcomes.
+      - Files: `TextAnalyzer.java`, `TextAnalyzerDemo.java`
+      - Notes: TextAnalyzerDemo.java is the entry file
 2. Python
 3. TS/JS
 
